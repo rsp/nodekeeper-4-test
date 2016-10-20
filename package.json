@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/rsp/nodekeeper-4-test#readme",
   "dependencies": {
-    "nodekeeper-4": "4.0.1"
+    "nodekeeper-4": "4.0.2"
   }
 }
