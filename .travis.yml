@@ -1,5 +1,3 @@
 language: node_js
-node_js:
-  - 4
-install: npm --no-color install
-script: npm --no-color test
+node_js: 4
+script: echo TESTVAR is $TESTVAR && npm test
