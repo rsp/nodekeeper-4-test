@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/rsp/nodekeeper-4-test.git"
   },
-  "author": "Rafał Pocztarski <r.pocztarski@gmail.com> (https://pocztarski.com/)",
+  "author": {
+    "name": "Rafał Pocztarski",
+    "email": "r.pocztarski@gmail.com",
+    "url": "https://pocztarski.com/"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rsp/nodekeeper-4-test/issues"
