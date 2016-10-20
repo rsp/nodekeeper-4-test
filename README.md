@@ -3,8 +3,6 @@
 [![Build Status][travis-img]][travis-url]
 [![Dependencies Status][david-img]][david-url]
 [![Known Vulnerabilities][snyk-img]][snyk-url]
-[![Downloads][downloads-img]][stats-url]
-[![License][license-img]][license-url]
 
 [npm-url]: https://www.npmjs.com/package/nodekeeper-4-test
 [github-url]: https://github.com/rsp/nodekeeper-4-test
