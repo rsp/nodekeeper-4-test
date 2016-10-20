@@ -1,6 +1,5 @@
 docker:
   image: "node:4"
 install:
-  - "npm install"
-  - "npm test"
-
+  - "npm --no-color install"
+  - "npm --no-color test"
