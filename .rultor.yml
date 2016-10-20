@@ -1,0 +1,5 @@
+docker:
+  image: "node:4"
+install:
+  - "npm install"
+  - "npm test"
