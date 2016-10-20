@@ -4,7 +4,7 @@
   "description": "Test package for nodekeeper-4",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo 'Dummy test OK'"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rsp/nodekeeper-4-test/issues"
   },
-  "homepage": "https://github.com/rsp/nodekeeper-4-test#readme"
+  "homepage": "https://github.com/rsp/nodekeeper-4-test#readme",
+  "dependencies": {
+    "nodekeeper-4": "4.0.0"
+  }
 }
