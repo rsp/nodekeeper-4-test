@@ -20,7 +20,7 @@
     "url": "https://github.com/rsp/nodekeeper-4-test/issues"
   },
   "homepage": "https://github.com/rsp/nodekeeper-4-test#readme",
-  "dependencies": {
+  "devDependencies": {
     "nodekeeper-4": "4.0.2"
   }
 }
